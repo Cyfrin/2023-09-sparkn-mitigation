@@ -16,11 +16,6 @@ Flat $700/Auditor (or team) in USDC on Arbitrum One payable upon submission of a
 - Ends September 26th, 2023
   Duration 48 hours
 
-## Stats
-- nSLOC: ~194
-- Complexity Score: ~213
-- Dollars per Complexity: ~$70
-
 # About the Project
 
 - [Landing Page](https://sparkn.io/)
