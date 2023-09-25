@@ -8,14 +8,13 @@
 
 # Contest Details
 
-## Contest Details 
+## Mitigation Review Details
 
-- Total Prize Pool: $15,000
-  - HM Awards: $14,000
-  - Low Awards: $1,000
-  - No GAS, Informational, or QAs
-- Starts August 21, 2023
-- Ends August 28th, 2023
+Flat $700/Auditor (or team) in USDC on Arbitrum One payable upon submission of a mitigation review.
+
+- Starts September 25, 2023
+- Ends September 26th, 2023
+  Duration 48 hours
 
 ## Stats
 - nSLOC: ~194
